@@ -1,0 +1,20 @@
+# Replacement for the local package installs from CodeArtifact
+
+# numerical
+numpy==1.23.4
+xgboost==1.7.1
+scikit-learn==1.1.3
+pandas==1.5.1
+
+rich
+
+# web
+beautifulsoup4==4.11.1
+requests==2.28.1
+
+
+# aws sdk packages
+awswrangler==2.17.0
+boto3==1.26.13
+botocore==1.29.13
+s3transfer==0.6.0
